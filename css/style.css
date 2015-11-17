@@ -24,6 +24,9 @@
 	border-left: 2px solid;
 }
 
+.borderright {
+	border-right: 2px solid;
+}
 
 nav {
 	background-color: RGBA(255,255,255,.3) !important;
