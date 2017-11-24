@@ -1,2 +1,2 @@
 # songs-for-a-rainy-day
-stupid assignment :p
+http://gilangdanu.com/songs-for-a-rainy-day/
