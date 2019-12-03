@@ -84,7 +84,7 @@ overflow:hidden;
 	color: ghostwhite;
 	list-style: none;
 	font-size: 1.8rem;
-	line-height: 2.2rem;
+	line-height: 2.6rem;
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 0;
@@ -99,6 +99,8 @@ overflow:hidden;
 	font-style: italic;
 	letter-spacing: .2rem;
 	color:ghostwhite;
+	padding-top: 1rem;
+	margin-top: 1rem;
 }
 
 .tandakutip {
