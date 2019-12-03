@@ -78,15 +78,12 @@ overflow:hidden;
 	margin-top: 0;
 	padding-top: 0;
 }
-.tempatspotify {
-	padding-top:2px;
-}
 
 .lirik .lagu {
 	font-family: 'Open Sans', sans-serif;
 	color: ghostwhite;
 	list-style: none;
-	font-size: 1.8rem;
+	font-size: 2rem;
 	line-height: 2.2rem;
 	text-align: center;
 	margin: 0 auto;
