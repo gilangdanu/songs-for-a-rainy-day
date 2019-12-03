@@ -1,5 +1,7 @@
 @import  url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,500,700);
 
+@import  url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,500,700);
+
 
 .wrapper {
 	min-height: 100vh;
@@ -38,19 +40,14 @@ nav {
   text-align: center;
   top: 50%;
   transform: translate(-50%, -50%); 
-	width: 600px;
-	height: 800px;
+	width: 320px;
+	height: 480px;
 	border-radius: .7rem;
 	box-shadow: 0 45px 100px rgba(0, 0, 0, 0.4);
 overflow:hidden;
 	background-color: RGBa(255,255,255,.3);
 }
-.iframefix iframe {
-width: 80;
-length: 250;
-position: relative;
-overflow: hidden;
-}
+
 
   /*width: 320px;
   height: 480px;
@@ -85,10 +82,11 @@ overflow: hidden;
 }
 
 .lirik .lagu {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: ghostwhite;
 	list-style: none;
-	font-size: 1.775rem;
+	font-size: 1.8rem;
+	line-height: 2.2rem;
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 0;
@@ -99,7 +97,7 @@ overflow: hidden;
 }
 
 .lirik .artist {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-style: italic;
 	letter-spacing: .2rem;
 	color:ghostwhite;
@@ -115,9 +113,8 @@ overflow: hidden;
 
 @media screen and (max-width:600px) {
 	.kartutengah {
-	width: 330px;
-	height: 440px;
-	font-size:1rem;
+	width: 200px;
+	height: 320px;
 }
 	
 	.tempatlirik {
@@ -126,7 +123,7 @@ overflow: hidden;
 	
 	.lirik .lagu{
 		margin-top:0;
-		font-size: 1.rem;
+		font-size: 1.4rem;
 	}
 	
 	.lirik .artist{
