@@ -43,6 +43,12 @@ body {
 	border-right: 2px solid;
 }
 
+iframe .iframefix {
+width: 80;
+length: 250;
+frameborder: 0;
+}
+
 .kartutengah {
   left: 50%;
   position: absolute;
