@@ -45,10 +45,9 @@ nav {
 overflow:hidden;
 	background-color: RGBa(255,255,255,.3);
 }
-
-iframe {
-width:250px;
-height: 80px;
+.iframefix iframe {
+width: 80;
+length: 250;
 position: relative;
 overflow: hidden;
 }
