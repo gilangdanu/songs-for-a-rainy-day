@@ -43,7 +43,7 @@ body {
 	border-right: 2px solid;
 }
 
-iframe .iframefix {
+.iframefix iframe {
 width: 80;
 length: 250;
 frameborder: 0;
