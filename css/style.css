@@ -116,8 +116,8 @@ overflow:hidden;
 
 @media screen and (max-width:600px) {
 	.kartutengah {
-	width: 285px;
-	height: 380px;
+	width: 250px;
+	height: 333.33px;
 }
 	
 	.tempatlirik {
@@ -126,7 +126,7 @@ overflow:hidden;
 	
 	.lirik .lagu{
 		margin-top:0;
-		font-size: 1.6rem;
+		font-size: 1.2rem;
 	}
 	
 	.lirik .artist{
